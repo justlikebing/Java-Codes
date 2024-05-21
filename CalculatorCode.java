@@ -2,7 +2,6 @@ package javaforplace;
 import java.util.Scanner;
 
 public class CalculatorCode {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the First number:");
@@ -34,7 +33,5 @@ public class CalculatorCode {
 			System.out.println("INVALID!!!!!!!");
 		}
 		System.out.println(result);
-
 	}
-
 }
