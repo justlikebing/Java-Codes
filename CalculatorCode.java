@@ -1,6 +1,5 @@
 package javaforplace;
 import java.util.Scanner;
-
 public class CalculatorCode {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
