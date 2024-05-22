@@ -1,6 +1,5 @@
 package codingPractice;
 import java.util.Scanner;
-
 public class Greater {
 
 	public static void main(String[] args) {
