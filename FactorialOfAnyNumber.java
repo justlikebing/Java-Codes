@@ -1,6 +1,5 @@
 package javaforplace;
 import java.util.Scanner;
-
 public class FactorialOfAnyNumber {
 
 	public static void main(String[] args) {
