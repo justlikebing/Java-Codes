@@ -60,6 +60,7 @@ public class MarksLab {
 		} else if (values[4] > 51 || values[4] <= 75) {
 			System.out.println("MERIT!!!");
 		} else if (values[4] > 75) {
+			
 			System.out.println("DISTINCTION..");
 		}
 
