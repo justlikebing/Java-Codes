@@ -1,7 +1,5 @@
 package codingPractice;
-
 import java.util.Arrays;
-
 public class MarksLab {
 
 	public static void main(String[] args) {
