@@ -2,13 +2,13 @@ package codingPractice;
 import java.util.Scanner;
 public class Greater {
 	public static void main(String[] args) {
-		Scanner obj = new Scanner(System.in);
+		Scanner object = new Scanner(System.in);
 		System.out.println("enter a ");
-		int a = obj.nextInt();
+		int a = object.nextInt();
 		System.out.println("enter b");
-		int b = obj.nextInt();
+		int b = object.nextInt();
 		System.out.println("enter c");
-		int c = obj.nextInt();
+		int c = object.nextInt();
 		if (a > c && a > b) {
 			System.out.println("a is greatest");
 		} else if (b > a && b > c) {
