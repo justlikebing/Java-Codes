@@ -1,5 +1,4 @@
-package javaforplace;
-
+package javaforplace;
 import java.util.Scanner;
 
 public class FibonacciSeries {
