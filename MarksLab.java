@@ -61,6 +61,5 @@ public class MarksLab {
 			
 			System.out.println("DISTINCTION..");
 		}
-	}
-
+	}
 }
