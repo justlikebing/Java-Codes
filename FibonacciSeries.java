@@ -1,4 +1,5 @@
-package javaforplace;
+package javaforplace;
+
 import java.util.Scanner;
 
 public class FibonacciSeries {
@@ -16,7 +17,7 @@ public class FibonacciSeries {
 			System.out.println(c + " ");
 			a = b;
 			b = c;
-
 		}
 	}
 }
+
