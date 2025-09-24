@@ -19,6 +19,7 @@ public class MarksLab {
 			System.out.println("DISTINCTION..");
 			System.out.println("for student2");
 		}
+		
 		System.out.println("for student2");
 		if (40 > values[1]) {
 			System.out.println("FAIL!");
@@ -60,6 +61,8 @@ public class MarksLab {
 		} else if (values[4] > 75) {
 			
 			System.out.println("DISTINCTION..");
-		}
-	}
-}
+		}
+
+	}
+
+}
