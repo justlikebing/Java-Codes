@@ -21,6 +21,7 @@ public class MarksLab {
 		}
 		
 		System.out.println("for student2");
+		
 		if (40 > values[1]) {
 			System.out.println("FAIL!");
 		} else if (values[1] > 40 || values[1] <= 50) {
@@ -31,6 +32,7 @@ public class MarksLab {
 			System.out.println("DISTINCTION..");
 		}
 		System.out.println("for student3");
+		
 		if (40 > values[2]) {
 			System.out.println("FAIL!");
 		} else if (values[2] > 40 || values[2] <= 50) {
@@ -40,6 +42,7 @@ public class MarksLab {
 		} else if (values[2] > 75) {
 			System.out.println("DISTINCTION..");
 		}
+		
 		System.out.println("for student4");
 		if (40 > values[3]) {
 			System.out.println("FAIL!");
@@ -49,8 +52,8 @@ public class MarksLab {
 			System.out.println("MERIT!!!");
 		} else if (values[3] > 75) {
 			System.out.println("DISTINCTION..");
-
 		}
+		
 		System.out.println("for student5");
 		if (40 > values[4]) {
 			System.out.println("FAIL!");
@@ -66,3 +69,4 @@ public class MarksLab {
 	}
 
 }
+
